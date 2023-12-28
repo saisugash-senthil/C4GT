@@ -55,21 +55,4 @@
     <td>Ashoka University</td>
   </tr>
 </table>
-    <table>
-      <tr>
-        <td>Name</td>
-        <td>Saisugash Senthil</td>
-      </tr>
-      <tr>
-        <td>GitHub</td>
-        <td>https://github.com/saisugash-senthil</td>
-      </tr>
-      <tr>
-        <td>LinkedIn</td>
-        <td>https://www.linkedin.com/in/saisugash-senthil-95aa9a151/</td>
-      </tr>
-      <tr>
-        <td>College</td>
-        <td>NIT Rourkela</td>
-      </tr>
-    </table>
+
